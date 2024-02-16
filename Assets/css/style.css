@@ -1,0 +1,38 @@
+* {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-image: url(../images/light-background.jpg);
+}
+
+header {
+  background-color: cadetblue;
+}
+
+p {
+  font-style: italic;
+  color: black;
+}
+
+.libelle {
+  color: blueviolet;
+}
+.tableau {
+  font-style: italic;
+}
+
+#indexheader {
+  background-color: aquamarine;
+}
+
+h3 {
+  background-color: rgb(253, 178, 135);
+}
+
+table {
+  border: 3px rgb(0, 0, 0) solid;
+}
+
+#pdp {
+  width: 200px;
+  height: 200px;
+}
