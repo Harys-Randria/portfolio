@@ -1,0 +1,359 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "MaPolice";
+  font-weight: 700;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+
+.header {
+  padding: 20px;
+  background: #081b29;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background: #081b29;
+  color: #ededed;
+  font-size: 40px;
+}
+
+.header-content p {
+  margin-top: 10px;
+  margin-right: 50%;
+  font-weight: 1000;
+}
+
+.frame-1-3mH {
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #081b29;
+}
+.frame-1-3mH .auto-group-orot-rCw {
+  margin: 0rem 5rem 6.1rem 0rem;
+  width: 74.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-orot-rCw .auto-group-g4bx-LGX {
+  margin: 0rem 8.9rem 5.6rem 0rem;
+  width: calc(100% - 8.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-orot-rCw .auto-group-g4bx-LGX .img-1-Rom {
+  margin-right: 1.2rem;
+  width: 32.3rem;
+  height: 29.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-g4bx-LGX
+  .harys-randrianomenjanahary-261-34-53-013-17-harysrandrianomenjanaharygmailcom-YtP {
+  max-width: 32.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-g4bx-LGX
+  .harys-randrianomenjanahary-261-34-53-013-17-harysrandrianomenjanaharygmailcom-YtP
+  .harys-randrianomenjanahary-261-34-53-013-17-harysrandrianomenjanaharygmailcom-YtP-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-g4bx-LGX
+  .harys-randrianomenjanahary-261-34-53-013-17-harysrandrianomenjanaharygmailcom-YtP
+  .harys-randrianomenjanahary-261-34-53-013-17-harysrandrianomenjanaharygmailcom-YtP-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH .auto-group-orot-rCw .formations-et-diplmes-jju {
+  margin: 0rem 18.2rem 2.2rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-orot-rCw .auto-group-wpdo-Rcj {
+  margin: 0rem 11.4rem 4.8rem 8.4rem;
+  width: calc(100% - 19.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-wpdo-Rcj
+  .mois-2022-2018-2020-2015-2018-wb5 {
+  margin-right: 7.4rem;
+  max-width: 3.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-wpdo-Rcj
+  .concepteur-dveloppeur-dapplications-numriques-inclusiv-academy-community-manager-bdr-freelance-bacc5-en-droit-et-technique-des-affaires-parcours-finance-et-comptabilit-institut-suprieur-polytechnique-de-madagascar-licence-en-droit-et-technique-des-affaires-parcours-finance-et-comptabilit-institut-suprieur-polytechnique-de-madagascar-dyh {
+  max-width: 43.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-orot-rCw .expriences-professionnelles-P5h {
+  margin: 0rem 8.5rem 2.2rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-orot-rCw .auto-group-ihpb-fZ1 {
+  margin-left: 8.4rem;
+  width: calc(100% - 8.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-ihpb-fZ1
+  .janvier-2024-du-mai-2022-au-aot-2022-du-nov-2020-au-avril-2021-D4j {
+  margin-right: 2.1rem;
+  max-width: 9.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.frame-1-3mH
+  .auto-group-orot-rCw
+  .auto-group-ihpb-fZ1
+  .conception-et-dveloppement-dune-application-desktop-zezika-bio-une-application-de-mise-en-relation-entre-des-producteurs-de-fertilisant-bio-des-agriculteurs-et-dautres-organismes-partenaires-afinde-favoriser-lutilisation-des-fertilisants-biologiques-pour-prserver-lcosystme-et-promouvoir-lagriculture-locale-inclusiv-academy-analyse-des-besoins-conception-uml-rdaction-des-spcifications-fonctionnelles-et-techniques-dveloppement-les-outils-utiliss-visual-studio-pour-le-codage-et-interface-postgresql-pour-la-base-de-donnes-stagiaire-charg-dtude-de-financement-analyse-financire-evaluation-des-risques-stagiaire-charg-dtude-de-financement-analyse-financire-evaluation-des-risques-hkb {
+  max-width: 55.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ededed;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-kipv-6gF {
+  margin-top: 5rem;
+  width: 32.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-right: 50rem;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-q7lq-qNw {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 44.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-q7lq-qNw .rectangle-1-kVu {
+  width: 32.8rem;
+  height: 41.1rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  background-color: #00abf0;
+}
+.frame-1-3mH
+  .auto-group-kipv-6gF
+  .auto-group-q7lq-qNw
+  .comptences-acquises-la-finde-la-formation-langages-java-c-python-technologies-jee-jsp-servlets-jstl-jdbc-rmi-struts-hibernate-spring-jsf-ejb3-jpa-webservicesnet-winform-aspnet-webservices-djangoweb-html-css-xml-javascript-ajax-reactjs-outils-poweramc-eclipse-visual-studionet-beanintelij-proteus-flowcodevisual-paradigm-wampserverteamviewer-git-base-de-donnes-oracle-sql-pl-sql-sqlserver-mysql-postresqlmthodologiemerise-mthodes-agiles-scrumuml-design-patterns-5o5 {
+  width: 30.4rem;
+  height: 29.2rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 10.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #081b29;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-q7lq-qNw .rectangle-2-Mu1 {
+  width: 21.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 0;
+  background-color: #d04848;
+}
+.frame-1-3mH
+  .auto-group-kipv-6gF
+  .auto-group-q7lq-qNw
+  .competences-techniques-HXm {
+  width: 15.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 9rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-51sd-mSw {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 19.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-51sd-mSw .rectangle-3-WfR {
+  width: 32.8rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  background-color: #00abf0;
+}
+.frame-1-3mH
+  .auto-group-kipv-6gF
+  .auto-group-51sd-mSw
+  .malagasy-courant-franais-courant-anglais-intermdiaire-Taf {
+  width: 12.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 10.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #081b29;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-51sd-mSw .rectangle-4-MAF {
+  width: 21.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 0;
+  background-color: #d04848;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-51sd-mSw .langues-tfy {
+  width: 9.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 2.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-e92d-yhR {
+  width: 100%;
+  height: 19.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-e92d-yhR .rectangle-5-KmH {
+  width: 32.8rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  background-color: #00abf0;
+}
+.frame-1-3mH
+  .auto-group-kipv-6gF
+  .auto-group-e92d-yhR
+  .agilit-football-jeux-vido-3xB {
+  width: 6.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 10.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #081b29;
+  font-family: Inter, "Source Sans Pro";
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-e92d-yhR .rectangle-6-ja7 {
+  width: 21.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 0;
+  background-color: #d04848;
+}
+.frame-1-3mH .auto-group-kipv-6gF .auto-group-e92d-yhR .centres-dinterets-Unb {
+  width: 11.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 11rem;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+}
+
+@font-face {
+  font-family: "MaPolice";
+  src: url("../font/Helvetica/Helvetica.ttf") format("truetype");
+}
